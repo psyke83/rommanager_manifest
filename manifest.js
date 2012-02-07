@@ -70,7 +70,7 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/tools/wpa-chooser.zip",
             "addons": [
                 {
-                    "name": "v6 wpa_suppliant (20120206)",
+                    "name": "v6 wpa_supplicant (20120206)",
                     "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/addons/wpa_supplicant_6_20120206.zip"
                 },
                 {
@@ -91,8 +91,8 @@
         },
         {
             "label": "CM7 ROMs for Huawei U8160/U8180",
-            "name": "CyanogenMod 7.2-RC0",
-            "summary": "[fake update test] (20120204)",
+            "name": "CyanogenMod 7.2-RC0 (v1.0)",
+            "summary": "(20120204) - update test",
             "visible": "false",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120204-MADTEAM-U8160",
@@ -103,13 +103,17 @@
                 {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "v6 wpa_supplicant (20120207)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/wpa_supplicant_6_20120207.zip"
                 }
             ]
         },
         {
             "label": "CM7 ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0 (v0.9)",
-            "summary": "Nightly Release (20120203)",
+            "summary": "(20120203)",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120203-MADTEAM-U8160",
             "incremental": "20120203",
@@ -117,8 +121,47 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120203-MADTEAM-U8160.zip",
             "addons": [
                 {
+                    "name": "v0.9 (20120206) Hotfix 1",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix1.zip"
+                },
+                {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "v6 wpa_supplicant (20120207)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/wpa_supplicant_6_20120207.zip"
+                }
+            ]
+        },
+        {
+            "label": "Miscellaneous for Huawei U8160/U8180",
+            "name": "Hotfix Updater",
+            "summary": "Use this to install new hotfixes separately\n*DO remember that you must manually choose ONE hotfix from the list\n*DON'T select mismatching hotfix versions",
+            "device": "u8160",
+            "visible": "true",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/hotfix-chooser.zip",
+            "addons": [
+                {
+                    "name": "v0.9 (20120206) Hotfix 1",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix1.zip"
+                }
+            ]
+        },
+        {
+            "label": "Miscellaneous for Huawei U8160/U8180",
+            "name": "WPA Supplicant Chooser",
+            "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\n*Note: there's no need to wipe your dalvik cache",
+            "device": "galaxy5",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/wpa-chooser.zip",
+            "addons": [
+                {
+                    "name": "v6 wpa_supplicant (20120206)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/addons/wpa_supplicant_6_20120207.zip"
+                },
+                {
+                    "name": "v5 wpa_supplicant (20120206)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/addons/wpa_supplicant_5_20120207.zip"
                 }
             ]
         },
