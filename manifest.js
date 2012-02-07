@@ -156,11 +156,11 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/wpa-chooser.zip",
             "addons": [
                 {
-                    "name": "v6 wpa_supplicant (20120206)",
+                    "name": "v6 wpa_supplicant (20120207)",
                     "url": "http://goo-inside.me/devs/psyke83/roms/u8160/addons/wpa_supplicant_6_20120207.zip"
                 },
                 {
-                    "name": "v5 wpa_supplicant (20120206)",
+                    "name": "v5 wpa_supplicant (20120207)",
                     "url": "http://goo-inside.me/devs/psyke83/roms/u8160/addons/wpa_supplicant_5_20120207.zip"
                 }
             ]
