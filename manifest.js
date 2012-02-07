@@ -54,7 +54,7 @@
             "summary": "Use this to install new hotfixes separately\n*DO remember that you must manually choose ONE hotfix from the list\n*DON'T select mismatching hotfix versions",
             "device": "galaxy5",
             "visible": "true",
-            "url": "http://goo-inside.me/devs/psyke83/roms/tools/hotfix-chooser.zip",
+            "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/tools/hotfix-chooser.zip",
             "addons": [
                 {
                     "name": "v2.0 (20120206) Hotfix 2",
@@ -67,7 +67,7 @@
             "name": "WPA Supplicant Chooser",
             "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\n*Note: there's no need to wipe your dalvik cache",
             "device": "galaxy5",
-            "url": "http://goo-inside.me/devs/psyke83/roms/tools/wpa-chooser.zip",
+            "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/tools/wpa-chooser.zip",
             "addons": [
                 {
                     "name": "v6 wpa_suppliant (20120206)",
