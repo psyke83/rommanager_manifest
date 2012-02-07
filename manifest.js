@@ -121,7 +121,7 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120203-MADTEAM-U8160.zip",
             "addons": [
                 {
-                    "name": "v0.9 (20120206) Hotfix 1",
+                    "name": "v0.9 (20120203) Hotfix 1",
                     "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix1.zip"
                 },
                 {
@@ -143,7 +143,7 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/hotfix-chooser.zip",
             "addons": [
                 {
-                    "name": "v0.9 (20120206) Hotfix 1",
+                    "name": "v0.9 (20120203) Hotfix 1",
                     "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix1.zip"
                 }
             ]
@@ -152,7 +152,7 @@
             "label": "Miscellaneous for Huawei U8160/U8180",
             "name": "WPA Supplicant Chooser",
             "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\n*Note: there's no need to wipe your dalvik cache",
-            "device": "galaxy5",
+            "device": "u8160",
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/wpa-chooser.zip",
             "addons": [
                 {
