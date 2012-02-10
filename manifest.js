@@ -36,7 +36,7 @@
             "addons": [
                 {
                     "name": "v2.0 (20120206) Hotfix 2",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/addons/galaxy5-v2.0-hotfix2.zip"
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix2.zip"
                 },
                 {
                     "name": "Google Apps (20110828)",
@@ -103,10 +103,6 @@
                 {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
-                },
-                {
-                    "name": "v6 wpa_supplicant (20120207)",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/wpa_supplicant_6_20120207.zip"
                 }
             ]
         },
@@ -153,6 +149,7 @@
             "name": "WPA Supplicant Chooser",
             "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\n*Note: there's no need to wipe your dalvik cache",
             "device": "u8160",
+            "visible": "false",
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/wpa-chooser.zip",
             "addons": [
                 {
