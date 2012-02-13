@@ -36,7 +36,7 @@
             "addons": [
                 {
                     "name": "v2.0 (20120206) Hotfix 2",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix2.zip"
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix2.zip"
                 },
                 {
                     "name": "Google Apps (20110828)",
