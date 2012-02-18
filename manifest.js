@@ -127,6 +127,23 @@
             ]
         },
         {
+            "label": "CM9 ROMs for Huawei U8160/U8180",
+            "name": "CyanogenMod 9 (alpha 3)",
+            "summary": "(20120217) - not recommended for daily use",
+            "visible": "true",
+            "product": "ics-nightly",
+            "modversion": "9-20120217-MADTEAM-U8160",
+            "incremental": "20120217",
+            "device": "u8160",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-9-20120217-MADTEAM-U8160-signed.zip",
+            "addons": [
+                {
+                    "name": "Google Apps for ICS (20120215) (small)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/gapps-ics-20120215-small-signed.zip"
+                }
+            ]
+        },
+        {
             "label": "Miscellaneous for Huawei U8160/U8180",
             "name": "Hotfix Updater",
             "summary": "Use this to install new hotfixes separately\n*DO remember that you must manually choose ONE hotfix from the list\n*DON'T select mismatching hotfix versions",
@@ -137,23 +154,6 @@
                 {
                     "name": "v0.9 (20120203) Hotfix 3",
                     "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix3.zip"
-                }
-            ]
-        },
-        {
-            "label": "CM9 ROMs for Huawei U8160/U8180",
-            "name": "CyanogenMod 9 (alpha 3)",
-            "summary": "(20120217)\nNot recommended for daily use",
-            "visible": "true",
-            "product": "ics-nightly",
-            "modversion": "9-20120217-MADTEAM-U8160",
-            "incremental": "20120217",
-            "device": "u8160",
-            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-9-20120217-MADTEAM-U8160-signed.zip",
-            "addons": [
-                {
-                    "name": "Google Apps for ICS (20120215 - small)",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/gapps-ics-20120215-small-signed.zip"
                 }
             ]
         },
