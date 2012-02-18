@@ -141,6 +141,23 @@
             ]
         },
         {
+            "label": "CM9 ROMs for Huawei U8160/U8180",
+            "name": "CyanogenMod 9 (alpha 3)",
+            "summary": "(20120217)\nNot recommended for daily use",
+            "visible": "true",
+            "product": "ics-nightly",
+            "modversion": "9-20120217-MADTEAM-U8160",
+            "incremental": "20120217",
+            "device": "u8160",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-9-20120217-MADTEAM-U8160-signed.zip",
+            "addons": [
+                {
+                    "name": "Google Apps for ICS (20120215 - small)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/gapps-ics-20120215-small-signed.zip"
+                }
+            ]
+        },
+        {
             "label": "Miscellaneous for Huawei U8160/U8180",
             "name": "WPA Supplicant Chooser",
             "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\n*Note: there's no need to wipe your dalvik cache",
@@ -155,23 +172,6 @@
                 {
                     "name": "v5 wpa_supplicant (20120207)",
                     "url": "http://goo-inside.me/devs/psyke83/roms/u8160/addons/wpa_supplicant_5_20120207.zip"
-                }
-            ]
-        },
-        {
-            "label": "CM9 ROMs for Huawei U8160/U8180",
-            "name": "CyanogenMod 9 (alpha 2)",
-            "summary": "(20111129)\nDeveloper preview - not recommended",
-            "visible": "false",
-            "product": "ics-nightly",
-            "modversion": "CyanogenMod-9-20111129-MADTEAM-U8160",
-            "incremental": "20111129",
-            "device": "u8160",
-            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-9-20111129-MADTEAM-U8160.zip",
-            "addons": [
-                {
-                    "name": "Google Apps for ICS (20120201)",
-                    "url": "http://goo-inside.me/gapps/gapps-ics-20120201-signed.zip.zip"
                 }
             ]
         }
