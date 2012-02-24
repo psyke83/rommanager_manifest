@@ -35,8 +35,8 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/update-cm-7-20120206-MADTEAM-galaxy5.zip",
             "addons": [
                 {
-                    "name": "v2.0 (20120206) Hotfix 3 (test1)",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix3test1.zip"
+                    "name": "v2.0 (20120206) Hotfix 3 (test2)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix3test2.zip"
                 },
                 {
                     "name": "v2.0 (20120206) Hotfix 2",
@@ -62,8 +62,8 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/tools/hotfix-chooser.zip",
             "addons": [
                 {
-                    "name": "v2.0 (20120206) Hotfix 3 (test1)",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix3test1.zip"
+                    "name": "v2.0 (20120206) Hotfix 3 (test2)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix3test2.zip"
                 },
                 {
                     "name": "v2.0 (20120206) Hotfix 2",
