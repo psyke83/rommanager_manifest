@@ -132,7 +132,7 @@
                 {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
-                },
+                }
             ]
         },
         {
