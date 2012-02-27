@@ -126,9 +126,13 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120203-MADTEAM-U8160.zip",
             "addons": [
                 {
+                    "name": "v0.9 (20120203) Hotfix 4",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix4.zip"
+                },
+                {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
-                }
+                },
             ]
         },
         {
@@ -156,14 +160,6 @@
             "visible": "true",
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/hotfix-chooser.zip",
             "addons": [
-                {
-                    "name": "v0.9 (20120203) Hotfix 4",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix4.zip"
-                },
-                {
-                    "name": "v0.9 (20120203) Hotfix 3",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix3.zip"
-                }
             ]
         },
         {
