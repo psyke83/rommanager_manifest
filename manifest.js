@@ -101,13 +101,13 @@
         {
             "label": "CM7 ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0 (v1.0)",
-            "summary": "(20120204) - update test",
-            "visible": "false",
+            "summary": "(20120227)",
+            "visible": "true",
             "product": "gingerbread-nightly",
-            "modversion": "CyanogenMod-7-20120204-MADTEAM-U8160",
-            "incremental": "20120204",
+            "modversion": "CyanogenMod-7-20120227-MADTEAM-u8160",
+            "incremental": "20120227",
             "device": "u8160",
-            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120204-MADTEAM-U8160.zip",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120227-MADTEAM-u8160-signed.zip",
             "addons": [
                 {
                     "name": "Google Apps (20110828)",
@@ -125,14 +125,6 @@
             "device": "u8160",
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120203-MADTEAM-U8160.zip",
             "addons": [
-                {
-                    "name": "v0.9 (20120203) Hotfix 4",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix4.zip"
-                },
-                {
-                    "name": "v0.9 (20120203) Hotfix 3",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix3.zip"
-                },
                 {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
