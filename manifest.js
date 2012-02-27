@@ -160,6 +160,10 @@
             "visible": "true",
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/tools/hotfix-chooser.zip",
             "addons": [
+                {
+                    "name": "v0.9 (20120203) Hotfix 4",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/u8160/u8160-v0.9-hotfix4.zip"
+                }
             ]
         },
         {
